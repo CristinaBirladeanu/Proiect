@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:Tomato;"><b>ABOUT EARTH PLANET</b></h1>
+<p><i>Earth is the third planet from the Sun and the only astronomical object known to harbor life.</i></p>
+<style>
+div {
+ border: 1px solid black;
+ margin: 25px 50px 75px 100px;
+ background-color: lightblue;
+}
+</style>
+
+<div> Our home planet provides us with life and protects us from space.</div>
+<p><i>According to radiometric dating and other sources of evidence,</i><strong>Earth formed over <mark>4.5 billion years ago</mark></strong></p>
+<p><em>Earth's axis of rotation is tilted with respect to its orbital plane, producing seasons on Earth.</em>
+<ins>Earth</ins> orbits around the Sun in<sup>365.256 days</sup>, a period known as an Earth sidereal year.
+<i>About <strong>71%</strong>of Earth's surface is covered with water, mostly by oceans.</i></p>
+<style>
+p.solid {border-style: solid;}
+</style>
+<p class="solid">Earth, our home planet, is a world unlike any other.</br> The third planet from the sun, Earth is the only place in the known universe confirmed to host life.</p>
+
+<p><em> Over 7.7 billion humans live on Earth and depend on its biosphere and natural resources for their survival.</em>
+Humans have developed diverse<q>societies and cultures; politically, the world has around 200 sovereign states.</q>
+
+<p style="background-color:Tomato;">
+Earth's atmosphere and oceans were formed by volcanic activity and outgassing.
+Water vapor from these sources condensed into the oceans, augmented by water and ice from asteroids, protoplanets, and comets.
+</p>
+</body>
+</html>
+
+
+
+
+
+
+
