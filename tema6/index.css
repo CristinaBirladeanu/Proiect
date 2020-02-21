@@ -1,0 +1,56 @@
+div.pozitie_statica {
+    position: -webkit-sticky;
+    border: 1pX salmon;   
+}
+div.pozitie_relativa{
+    position: relative;
+    left:40px;
+    border: 3px solid #73AD21;
+}
+div.pozitie_fixa{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+div.pozitie_relativa_2{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+div.pozitie_absoluta{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+div.pozitie_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+  }
+  img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+
+  body{
+      background-color: aliceblue;
+      scroll-behavior: smooth;
+  }
+
+  p.custom{
+      color: black;
+      background-color: transparent;
+      border-radius: 0vmin;
+      border-style: double;
+      justify-content: left;
+  }
